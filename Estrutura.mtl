@@ -1,0 +1,231 @@
+newmtl Proj_sanatorio01:FBXASC050_andar001SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:FBXASC050_andarSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:Object012SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:Object013SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:Object016SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:Object018SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:batenteSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:colunasSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:escadaSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:esquadriaFBXASC032fixaSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:esquadriasFBXASC032fixasSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:forro01SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:forroFBXASC032quartosSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:forroFBXASC032salaFBXASC032subSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:fossoFBXASC032subSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:molduraSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:pisoFBXASC032halFBXASC032escadaSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:pisoFBXASC032quartoSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:pisoFBXASC032quartosSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:pisoSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:porta1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:portaFBXASC032interativa001SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:portaFBXASC032interativa02SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:portaFBXASC032interativaSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:portaFBXASC032subSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:portasSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:quartoFBXASC032comFBXASC032espumaSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl Proj_sanatorio01:tetoFBXASC032arcoSG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+Ns 18.00
+newmtl blinn1SG
+illum 4
+Kd 0.07 0.20 0.92
+Ka 0.14 0.25 0.91
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50

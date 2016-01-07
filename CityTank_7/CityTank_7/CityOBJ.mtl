@@ -1,0 +1,524 @@
+newmtl Material__25
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Material__27
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl MiniTank:Material__25
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl MiniTank:Material__27
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl MiniTank:NozzelFBXASC032FBXASC092SG
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.01 0.01 0.01
+Tf 1.00 1.00 1.00
+Ni 0.00
+Ks 0.06 0.06 0.06
+Ns 2.00
+newmtl MiniTank:Tank_UV:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MiniTank:Tank_UV:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MiniTank:Tank_UV:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MiniTank:Tank_UV:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MiniTank:Tank_UV:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MiniTank:Tank_UV:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MiniTank:Tank_UV:lambert10SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MiniTank:Tank_UV:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MiniTank:Tank_UV:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MiniTank:___Default
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl MiniTank:engineFBXASC032FBXASC092SG
+illum 4
+Kd 0.90 0.90 0.90
+Ka 0.90 0.90 0.90
+Tf 1.00 1.00 1.00
+Ni 0.00
+Ks 0.13 0.13 0.13
+Ns 30.00
+newmtl MiniTank:noseSG
+illum 4
+Kd 0.43 0.00 0.00
+Ka 0.43 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+Ks 0.32 0.32 0.32
+Ns 14.00
+newmtl MiniTank:noseSG1
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.01 0.01 0.01
+Tf 1.00 1.00 1.00
+Ni 0.00
+Ks 0.06 0.06 0.06
+Ns 2.00
+newmtl MiniTank:noseSG2
+illum 4
+Kd 0.98 0.35 0.00
+Ka 0.98 0.35 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+Ks 0.40 0.40 0.40
+Ns 14.00
+newmtl MiniTank:phong36SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl MiniTank:wdetailFBXASC032FBXASC092SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+Ks 1.20 1.20 1.20
+Ns 62.00
+newmtl NozzelFBXASC032FBXASC092SG
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.01 0.01 0.01
+Tf 1.00 1.00 1.00
+Ni 0.00
+Ks 0.06 0.06 0.06
+Ns 2.00
+newmtl Tank_UV:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV:lambert10SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV1:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV1:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV1:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV1:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV1:lambert10SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Tank_UV1:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl ___Default
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl engineFBXASC032FBXASC092SG
+illum 4
+Kd 0.90 0.90 0.90
+Ka 0.90 0.90 0.90
+Tf 1.00 1.00 1.00
+Ni 0.00
+Ks 0.13 0.13 0.13
+Ns 30.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert14SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Patern1.tga
+Ni 1.00
+newmtl lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Patern2.tga
+Ni 1.00
+newmtl lambert17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Patern3.tga
+Ni 1.00
+newmtl lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Patern3.tga
+Ni 1.00
+newmtl lambert19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Patern3.tga
+Ni 1.00
+newmtl lambert20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Patern3.tga
+Ni 1.00
+newmtl lambert21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Patern1.tga
+Ni 1.00
+newmtl lambert22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Patern1.tga
+Ni 1.00
+newmtl lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Patern1.tga
+Ni 1.00
+newmtl lambert24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Patern3.tga
+Ni 1.00
+newmtl lambert25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Patern3.tga
+Ni 1.00
+newmtl lambert27SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump concreto_256_XNormal.tga -bm 1
+Ni 1.00
+newmtl lambert28SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert35SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd concreto_256.TGA
+Ni 1.00
+newmtl lambert40SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd concreto_256.TGA
+Ni 1.00
+newmtl lambert41SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd concreto_256.TGA
+Ni 1.00
+newmtl lambert42SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd concreto_256.TGA
+Ni 1.00
+newmtl lambert43SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd concreto_256.TGA
+Ni 1.00
+newmtl lambert44SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert45SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert47SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd concreto.TGA
+Ni 1.00
+newmtl lambert48SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd concreto.TGA
+Ni 1.00
+newmtl lambert50SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd concreto.TGA
+Ni 1.00
+newmtl lambert54SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd concreto.TGA
+Ni 1.00
+newmtl noseSG
+illum 4
+Kd 0.43 0.00 0.00
+Ka 0.43 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+Ks 0.32 0.32 0.32
+Ns 14.00
+newmtl noseSG1
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.01 0.01 0.01
+Tf 1.00 1.00 1.00
+Ni 0.00
+Ks 0.06 0.06 0.06
+Ns 2.00
+newmtl noseSG2
+illum 4
+Kd 0.98 0.35 0.00
+Ka 0.98 0.35 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+Ks 0.40 0.40 0.40
+Ns 14.00
+newmtl phong36SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd concreto_256.TGA
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl wdetailFBXASC032FBXASC092SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+Ks 1.20 1.20 1.20
+Ns 62.00
